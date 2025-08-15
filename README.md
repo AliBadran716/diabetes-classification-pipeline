@@ -55,9 +55,7 @@ The dataset consists of 768 samples and 9 columns, including numerical features 
 
 ├── data/                     # Dataset (if included) or link in README
 ├── notebooks/                # Jupyter notebooks / .py scripts
-├── images/                   # Saved plots (confusion matrices, bar charts)
-├── README.md                 # Project documentation
-└── requirements.txt          # Python dependencies
+└── README.md                 # Project documentation
 
 ````
 
@@ -129,6 +127,3 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 B.Sc. Systems & Biomedical Engineering | AI & Deep Learning Enthusiast
 [LinkedIn](https://www.linkedin.com/in/ali-badran) | [GitHub](https://github.com/AliBadran716)
 
-
-Do you want me to prepare that next?
-```
